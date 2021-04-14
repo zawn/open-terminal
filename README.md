@@ -51,3 +51,6 @@ The menu based on automatic operation is simple enough, stable enough, will not 
 ## 总结
 
 基于自动操作实现的菜单足够简单，足够稳定，不会带来额外的性能损失，不会造成冲突。
+
+<img width="1007" alt="截屏2021-04-14 上午10 01 38" src="https://user-images.githubusercontent.com/5005199/114643623-9cbf1600-9d08-11eb-90c2-ee8836490cd4.png">
+
